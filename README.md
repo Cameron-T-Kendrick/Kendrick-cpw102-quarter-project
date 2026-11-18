@@ -1,25 +1,30 @@
 # [Project name]
 
+Bubble (Budgeting app)
+
 ## Project description
 
-Describe what your project does and who it helps.
+Helps the everyday person keep track of their bills, spendings, and credit
 
 ## Author
 
-Add your name and, optionally, your GitHub username.
+Cameron Kendrick (GH: Cameron-T-Kendrick)
+
 
 ## Environment setup
 
-List the Python version and the commands to create and activate a virtual environment.
+- Bubble requires Python 3.10 or newer
 
 ## Dependencies
 
-Explain how to install any packages your project needs.
+-   There will be a read me in said repo or website to downlad it, but since this is 
+    bare bones, we will start through the command promt and work out way up to a application with a UI.
 
 ## Running the project
 
-Give the command to start the program and one example of how to use it.
+python bubble.py runserver
+
 
 ## Running the tests
 
-Give the command to run the unit tests.
+python bubble_tests.py runserver
