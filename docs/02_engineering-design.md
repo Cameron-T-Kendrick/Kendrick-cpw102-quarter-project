@@ -5,18 +5,17 @@
 
 [Provide a system-level explanation of:
 
-- major components of your application and how they interact.
-- data flow at a high level
-
-A friend should be able to read this section and, at a glance, understand how the application works. ]
+It will allow people to log into the app after installing,
+make a account and add their information like bills cards, and debt to get a profile made. Then from there they will get ratings 
+visually on how their doing finacnially ]
 
 ## System Diagrams
 
 [This document must include one or more of the following:
 
-- block diagram of your proposed functions and modules, including external libraries
-- flowchart of logic for critical flows
-- mockups of any program-driven user interfaces, if applicable]
+User in broswer will be using a UI
+
+
 
 ## Technical Details
 
